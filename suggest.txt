@@ -1,9 +1,9 @@
-<a href='test'>Article Creation</a>?
-Feature Requests?
-Bug Squashing?
-Adding more suggestions to this list?
-Writing for the Foundation's blog?
-Improving Wikipedia articles?
-Looking after Wikimedia's servers?
-Cleaning up issues on Wikipedia?
-Organising Wikimedia meetups?
+<a href='https://en.wikipedia.org/wiki/Wikipedia:Article_creation'>Article Creation</a>?
+<a href='https://phabricator.wikimedia.org/project/query/active/'>Feature Requests</a>?
+<a href='https://phabricator.wikimedia.org/maniphest/query/all/'>Bug Squashing</a>?
+<a href='https://github.com/wikimedia-asknot/suggestions'>Adding more suggestions to this list</a>?
+<a href='https://meta.wikimedia.org/wiki/Wikimedia_Blog'>Writing for the Foundation's blog</a>?
+<a href='https://en.wikipedia.org/wiki/Wikipedia:Contributing_to_Wikipedia'>Improving Wikipedia articles</a>?
+<a href='https://wikitech.wikimedia.org/wiki/Main_Page'>Looking after Wikimedia's servers</a>?
+<a href='https://en.wikipedia.org/wiki/Wikipedia:Cleanup'>Cleaning up issues on Wikipedia</a>?
+<a href='https://en.wikipedia.org/wiki/Wikipedia:Meetup'>Organising Wikimedia meetups</a>?
