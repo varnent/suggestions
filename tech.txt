@@ -6,3 +6,4 @@
 <a href='https://www.mediawiki.org/wiki/Quality_Assurance'>Testing software</a>?
 <a href='https://www.mediawiki.org/wiki/Documentation'>Writing technical documentation</a>?
 <a href='https://www.mediawiki.org/wiki/Project:Support_desk'>Helping people on the support desk</a>?
+<a href='https://www.mediawiki.org/wiki/API:Main_page'>Developing the MediaWiki action API</a>?
