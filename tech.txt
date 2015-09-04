@@ -1,0 +1,3 @@
+<a href='https://phabricator.wikimedia.org/project/query/active/'>Feature Requests</a>?
+<a href='https://phabricator.wikimedia.org/maniphest/query/all/'>Bug Squashing</a>?
+<a href='https://wikitech.wikimedia.org/wiki/Main_Page'>Looking after Wikimedia's servers</a>?
