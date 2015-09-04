@@ -1,0 +1,8 @@
+<a href='tech.php'>technology</a>?
+<a href='tech.php'>servers over people</a>?
+<a href='tech.php'>programming</a>?
+<a href='create.php'>creating things</a>?
+<a href='create.php'>editing</a>?
+<a href='create.php'>proofreading</a>?
+<a href='advocate.php'>talking to people</a>?
+<a href='advocate.php'>talking about what you love</a>?

@@ -1,0 +1,9 @@
+<a href='https://phabricator.wikimedia.org/project/query/active/'>Feature requests</a>?
+<a href='https://phabricator.wikimedia.org/maniphest/query/all/'>Bug squashing</a>?
+<a href='https://wikitech.wikimedia.org/wiki/Main_Page'>Looking after Wikimedia's servers</a>?
+<a href='https://github.com/wikimedia-asknot/suggestions'>Helping improve this website</a>?
+<a href='https://en.wikipedia.org/wiki/Wikipedia:IRC'>Helping people on IRC</a>?
+<a href='https://www.mediawiki.org/wiki/Quality_Assurance'>Testing software</a>?
+<a href='https://www.mediawiki.org/wiki/Documentation'>Writing technical documentation</a>?
+<a href='https://www.mediawiki.org/wiki/Project:Support_desk'>Helping people on the support desk</a>?
+<a href='https://www.mediawiki.org/wiki/API:Main_page'>Developing the MediaWiki action API</a>?
