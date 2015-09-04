@@ -1,3 +1,3 @@
-<a href='#'>technology</a>?
-<a href='#'>writing</a>?
-<a href='#'>talking to people</a>?
+<a href='http://www.whatcanidoforwikimedia.org/explore/tech.php'>technology</a>?
+<a href='http://www.whatcanidoforwikimedia.org/explore/create.php'>writing</a>?
+<a href='http://www.whatcanidoforwikimedia.org/explore/advocate.php'>talking to people</a>?
