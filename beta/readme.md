@@ -1,5 +1,3 @@
-# Adding suggestions for http://www.whatcanidoforwikimedia.org/beta
-
 ##Instructions
 1. Navigate to the file you wish you change
 2. Click the pen icon in the top right
