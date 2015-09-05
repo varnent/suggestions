@@ -8,16 +8,19 @@
 
 ##File Structure
 The file structure on the server is as follows:
+* **assets**
+  * style.css <br/>
+  * Wikimedia_Community_Logo.png
+  * Wikimedia_Community_Logo-140px.png
 * **explore** <br/>
   * advocate.php <br/>
   * create.php <br/>
   * index.php <br/>
   * tech.php <br/>
-* **img** <br/>
-  * wmf.png <br/>
+* **schools** <br/>
+  * [marked for later use]
 * .htaccess <br/>
-* index.php <br/>
-* style.css <br/>
+* index.php (nb. uses file_get_contents on index.html)<br/>
 
 ##File structure
 ```<a href='url here'>Text to be shown</a>?```
