@@ -37,3 +37,39 @@ div.panel-heading.blue {
 .panel-primary.blue {
 	border-color: #0A5288;
 }
+
+div#social-sharing {
+    text-align: center;
+}
+
+div#social-icons {
+	padding: 20px 0 30px;
+	display: inline-block;
+}
+
+/* Social icon slide credit: http://bradsknutson.com/blog/css3-rollover-social-media-icons/ */
+
+.social-slide.facebook {
+	background-image: url('facebook-hover.png');
+}
+
+.social-slide.twitter {
+	background-image: url('twitter-hover.png');
+}
+
+.social-slide {
+	height: 48px;
+	width: 48px;
+	margin: 10px;
+	float: left;
+	-webkit-transition: all ease 0.3s;
+	-moz-transition: all ease 0.3s;
+	-o-transition: all ease 0.3s;
+	-ms-transition: all ease 0.3s;
+	transition: all ease 0.3s;
+}
+
+.social-slide:hover {
+	background-position: 0px -48px;
+	box-shadow: 0px 0px 4px 1px rgba(0,0,0,0.8);
+}
